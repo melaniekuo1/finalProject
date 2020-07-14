@@ -11,6 +11,15 @@ import UIKit
 class ViewController: UIViewController {
     
     
+    @IBAction func homeButton(_ sender: UIButton) {
+    }
+    
+    @IBAction func plusButton(_ sender: UIButton) {
+    }
+    
+    @IBAction func profileButton(_ sender: UIButton) {
+    }
+    
     @IBOutlet weak var homeLabel: UILabel!
     
     override func viewDidLoad() {
